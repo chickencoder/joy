@@ -206,7 +206,7 @@ function help() {
 
 // Route system arguments to
 // appropriate function.
-console.log(process.argv.length)
+// console.log(process.argv.length)
 
 for (i in process.argv) {
   var arg = process.argv[i];
