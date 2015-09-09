@@ -5,11 +5,11 @@ Joy is an extremely lightweight command line interface which organises and rende
 a simple static sites.
 
 #### Install
-```bash
+<!-- ```bash
 npm install -g joycli
-```
-
-or...
+``` -->
+<!-- 
+or... -->
 
 ```bash
 git clone https://github.com/chickencoder/joy.git
