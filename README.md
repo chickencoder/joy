@@ -1,4 +1,4 @@
-Joy
+Joy :joy:
 ---
 
 Joy is an extremely lightweight command line interface which organises and renders
