@@ -1,7 +1,7 @@
 Joy :joy:
 ---
 
-Joy is an extremely lightweight command line interface which organises and renders
+Joy is an extremely lightweight command line interface which organises, renders and bundles
 a simple static sites.
 
 #### Install
